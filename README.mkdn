@@ -28,7 +28,7 @@ Setup the build environment:
 
     . build/envsetup.sh
 
-Select a device to start and build using "Brunch" like this (choices for device are: tate, jem): Brunch <device>
+Select a device to start and build using "Brunch" like this (choices for device are: tate, jem): <device>
  Brunch tate
 
 
