@@ -11,11 +11,11 @@ Make a build directory:
 	cd Android (or the name  you chose)
 	
 
-To initialize your local repository using the AOSP manifest, use commands like these:
+To initialize your local repository using the CyanogenMod trees, use a command like this:
 
-    repo init -u https://android.googlesource.com/platform/manifest -b cm-12.1
+   repo init -u git://github.com/CyanogenMod/android.git -b cm-12.1
     
-    curl -L -o .repo/local_manifest.xml -O -L https://raw.github.com/KFire-Android/android_local_manifest/jb-aosp-4.3_r2.1/local_manifest.xml
+    curl -L -o .repo/local_manifest.xml -O -L https://raw.github.com/BuQQzz/android_local_manifest/local_manifest.xml
 
     	( or Download: https://github.com/BuQQzz/android_local_manifest/local_manifest.xml
 		and place it in ~/Android/.repo/local_manifests/local_manifest.xml (or ~/'name you chose'/.repo)
