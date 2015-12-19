@@ -3,7 +3,7 @@
 <manifest>
 
   <remote fetch="git://github.com/" name="gh" />
-<!-- Some of these files haven't been updated for CM12.1 yet - more testing & editing should be done -->
+<!-- Some of these below repos haven't been updated for CM12.1 yet - more testing & editing should be done -->
   <project name="BuQQzz/kernel_omap_bowser-common" path="kernel/amazon/bowser-common" remote="gh" revision="cm-13.0" />
   <project name="BuQQzz/android_device_amazon_omap4-common" path="device/amazon/omap4-common" remote="gh" revision="cm-13.0" />
   <project name="BuQQzz/android_device_amazon_bowser-common" path="device/amazon/bowser-common" remote="gh" revision="cm-13.0" />
