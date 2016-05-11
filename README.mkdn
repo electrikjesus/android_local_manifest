@@ -15,9 +15,9 @@ To initialize your local repository using the CyanogenMod trees, use a command l
 
    repo init -u git://github.com/CyanogenMod/android.git -b cm-13.0
     
-    curl -L -o .repo/local_manifest.xml -O -L https://raw.github.com/BuQQzz/android_local_manifest/local_manifest.xml
+    curl -L -o .repo/local_manifest.xml -O -L https://raw.github.com/monster1612/android_local_manifest/local_manifest.xml
 
-    	[or download https://github.com/BuQQzz/android_local_manifest/local_manifest.xml
+    	[or download https://github.com/monster1612/android_local_manifest/local_manifest.xml
 		and place it in ~/Android/.repo/local_manifests/local_manifest.xml (or ~/'name you chose'/.repo)]
 
 Then to sync up:
