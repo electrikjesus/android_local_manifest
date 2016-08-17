@@ -28,8 +28,8 @@ Setup the build environment:
 
     . build/envsetup.sh
 
-Select a device to start and build using "Brunch" like this (choices for device are: tate, jem): <device>
- Brunch tate
+Select a device to start and build using "lunch" like this (choices for device are: tate, jem): <device>
+ lunch tate
 
 
 Look for the flash .zip in: out/target/product/<device>
