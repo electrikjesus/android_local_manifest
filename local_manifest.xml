@@ -10,5 +10,7 @@
   <project name="alexander3244/android_device_amazon_jem" path="device/amazon/jem" remote="github" revision="cm-13.0-dev" />
   <!-- the proprietary vendor files -->
   <project name="monster1612/proprietary_vendor_amazon" path="vendor/amazon"  remote="github" revision="cm-13.0" />
+  <!-- twrp -->
+  <project name="omnirom/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-6.0" />
 </manifest>
 
